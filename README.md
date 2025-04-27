@@ -52,7 +52,7 @@ O projeto foi criado com foco em alta fidelidade ao design proposto no Figma e a
 ## 🚀 Como rodar o projeto localmente
 
 1. Clone o repositório:
-   ```bash
+  ```bash
    git clone https://github.com/PedroPPVM/code-leap-network.git
    ```
 2. Acesse a pasta do projeto:
@@ -72,4 +72,4 @@ O projeto foi criado com foco em alta fidelidade ao design proposto no Figma e a
    http://localhost:5173
    ```
 ## 📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT.
